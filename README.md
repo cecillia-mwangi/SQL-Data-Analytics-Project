@@ -118,4 +118,4 @@ SQL
 
 ## Author
 
-Data Analytics Project created for practicing SQL skills and demonstrating data analysis technique
+Data Analytics Project created for practicing SQL skills and demonstrating data analysis techniques.
